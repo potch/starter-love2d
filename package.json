@@ -1,0 +1,14 @@
+{
+  "name": "starter-love2d",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.lua",
+  "scripts": {
+    "start": "onchange -ik *.lua -- /Applications/love.app/Contents/MacOS/love ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "onchange": "^7.1.0"
+  }
+}
